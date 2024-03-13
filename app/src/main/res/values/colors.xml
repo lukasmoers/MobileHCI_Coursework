@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="idle_state">#9AB7D3</color>
+    <color name="listening_state">#FAEDCB</color>
+    <color name="error_state">#FFB8B1</color>
+    <color name="correct_state">#97C1A9</color>
+    <color name="background_color">#EDEAE5</color>
+    <color name="button_colour">#C7DBDA</color>
+</resources>

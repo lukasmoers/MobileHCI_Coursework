@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobileHCINew</string>
+    <string name="Backward">Backward</string>
+    <string name="Play">Play</string>
+    <string name="Pause">Pause</string>
+    <string name="Mute">Mute</string>
+    <string name="Forward">Forward</string>
+</resources>
